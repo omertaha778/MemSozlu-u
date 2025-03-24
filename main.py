@@ -1,5 +1,5 @@
 meme_sozlugu = {
-            "CRINGE": "Garip ya da utandırıcı bir şey",
+            "": "Garip ya da utandırıcı bir şey",
             "LOL": "Komik bir şeye verilen cevap",
             "ROFL": "ROFL bir şakaya karşılıktır, LOL gibidir"
             }
